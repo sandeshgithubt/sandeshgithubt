@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development Course**
 
-- 💬 Ask me about **JavaScript, ReactJS, Java, BootStrap, HTML, Data StructureCSS,**
+- 💬 Ask me about **HTML, CSS, JavaScript,  BootStrap, ReactJS, Java,  Data Structure**
 
 - 📫 How to reach me **sandeshtitarmare3@gmail.com**
 
