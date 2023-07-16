@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeshgithubt" alt="sandeshgithubt" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development Course**
+- 🌱 I’m currently Working as  **Full Stack Web Developer**
 
-- 💬 Ask me about **HTML, CSS, JavaScript,  BootStrap, ReactJS, Java,  Data Structure**
+- 💬 Ask me about **HTML, CSS, JavaScript, Sass, Scss,  BootStrap, Material UI, Tailwind CSS,  ReactJS, Redux, NodeJs, ExpressJs, MangoDB, postgreSQL, Java, SpringBoot.io  Data Structure , JIRA, Bitbuket, Github, Manual Testing, Automation Testing, Performance Testing, API Testing, JSON, RestAPI, POSTMAN, UI Testing, Functional and Non Functional Testing, Agile Methodology, Selenium FrameWork**
 
 - 📫 How to reach me **sandeshtitarmare3@gmail.com**
 
