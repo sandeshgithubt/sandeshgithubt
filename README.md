@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Sass, Scss,  BootStrap, Material UI, Tailwind CSS,  ReactJS, Redux, NodeJs, ExpressJs, MangoDB, postgreSQL, Java, SpringBoot.io  Data Structure , JIRA, Bitbuket, Github, Manual Testing, Automation Testing, Performance Testing, API Testing, JSON, RestAPI, POSTMAN, Firebase, Linux Server Deployment, UI Testing, Functional and Non Functional Testing, Agile Methodology, Selenium Framework**
 
-- 📫 How to reach me **sandeshtitarmare3@gmail.com**
+- 📫 How to reach me **titarmaresandesh5@gmail.com**
 
 - ⚡ Fun fact **I am Sarcastic person**
 
