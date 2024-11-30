@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Working as  **Full Stack Web Developer**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Sass, Scss,  BootStrap, Material UI, Tailwind CSS,  ReactJS, Redux, NodeJs, ExpressJs, MangoDB, postgreSQL, Java, SpringBoot.io  Data Structure , JIRA, Bitbuket, Github, JSON, RestAPI, POSTMAN, Firebase, Linux Server, Agile Methodology**
+- 💬 Ask me about **HTML, CSS, JavaScript Typescript, Sass, Scss,  BootStrap, Material UI, Tailwind CSS,  ReactJS, Redux, NodeJs, ExpressJs, MangoDB, postgreSQL, Java, SpringBoot.io  Data Structure , JIRA, Bitbuket, Github, JSON, RestAPI, POSTMAN, Firebase, Linux Server, Agile Methodology**
 
 - 📫 How to reach me **titarmaresandesh5@gmail.com**
 
